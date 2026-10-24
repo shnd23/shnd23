@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sahand
 
-<!--
-**shnd23/shnd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate with an interest in machine learning, recommender systems, and full-stack software development.
 
-Here are some ideas to get you started:
+I'm interested in building practical machine learning applications and scalable web systems while exploring modern AI and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+* Machine Learning
+* Recommendation Systems
+* Deep Learning
+* Backend Engineering
+* System Design
+* Full-Stack Development
+
+## Tech Stack
+
+* **Languages:** Python, TypeScript, JavaScript, SQL
+* **Machine Learning:** PyTorch, Scikit-learn, Pandas, NumPy
+* **Backend:** Django, Django REST Framework
+* **Frontend:** Next.js, React, Tailwind CSS
+* **Tools:** Git, Docker, Linux
+
+## Contact
+
+* 📧 Email: [sahand.mazrue@gmail.com](mailto:sahand.mazrue@gmail.com)
+* 💼 LinkedIn: [Sahand Mazrouei](https://www.linkedin.com/in/sahand-mazrouei-486b62363/)
